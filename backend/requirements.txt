@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+faiss-cpu
+huggingface-hub
+requests
+pydantic
